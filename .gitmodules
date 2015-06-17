@@ -37,3 +37,6 @@
 [submodule "home/.vim/bundle/drupalvim"]
 	path = home/.vim/bundle/drupalvim
 	url = http://git.drupal.org/project/vimrc.git
+[submodule "home/.vim/bundle/vim-mustache-handlebars"]
+	path = home/.vim/bundle/vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
